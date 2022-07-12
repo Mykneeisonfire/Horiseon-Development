@@ -1,2 +1,4 @@
 # Horiseon-Development
-A webpage for a bootcamp assignment.
+A test website for development of the Horiseon webpage!
+
+Thank You For visiting!
